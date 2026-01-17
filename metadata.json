@@ -1,0 +1,7 @@
+{
+  "name": "九宫格导演1",
+  "description": "AI电影导演辅助工具，通过3x3分镜图与小说原文，智能预判动作起止策略并生成专业视频动态提示词。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
